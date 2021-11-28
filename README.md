@@ -1,4 +1,6 @@
 # <h1><a href = "https://wizardly-noether-2fef9a.netlify.app">Random Quote Generator</h1>
+   A React random quote generator App. It uses React on the front end and makes get requests to Advice Slip JSON API.
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
